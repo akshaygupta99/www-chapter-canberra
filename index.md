@@ -31,8 +31,11 @@ We want to help you connect with like-minded individuals. Whether you are new to
 # Industry Insights
 No cybersecurity professional would feel complete without latest Industry insights and we will aim to hold various Industry leaders led sessions/talks from time to time.
 
-# Chapter Rules and Policies
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+# Chapters Policy
+Chapter is run in accorance to OWASP policy https://owasp.org/www-policy/operational/chapters
+
+# Speaker
+To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
 
 # Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
@@ -41,17 +44,15 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 
 ## Sponsor our Chapter
-If you are interested in sponsoring our chapter or an event , there are three different sponsorship options:
+We are an open community dedicated to enabling organizations to conceive, develop, acquire, operate, and maintain applications that can be trusted. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. For nearly two decades corporations, foundations, developers, and volunteers have supported the OWASP Foundation and its work.
 
-# Single Meeting Supporter
-Organizations that wish to support OWASP local chapter with donation to enable OWASP Foundation to continue the mission.
-Benefits include being recognized as a local supporter by posting the company logo on the OWASP Chapter website, and having a table at local chapter meeting to promote application security products/services etc.
-The dollar amount for this is set by each local chapter.
+# Supporting the Foundation
+There are many ways to participate and support the mission of OWASP.
 
-# Local Chapter Supporter
-Organizations that are not yet interested in becoming full Organizational Supporters but who have a desire to direct their support in a more regional manner may prefer to become a Chapter Supporter.
-Benefits include being recognized as a local supporter by posting the company logo on the OWASP Chapter website, and having (1) supporting member vote in elections and on issues that shape the direction of the community.
-Suggested dollar amounts are $500 (Silver), $1,000 (Gold), and $2,000 (Platinum) per year.
+Employees can participate in our Projects and Local Chapters
+Become a Corporate Member
+Sponsor the Foundation and our Events
+Make a charitable gift to the Foundation to support our ongoing work.
 
 # Contact
 Please feel free to contact Akshay Gupta via Akshay.Gupta@owasp.org for all enquiries.
